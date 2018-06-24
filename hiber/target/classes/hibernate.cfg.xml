@@ -1,0 +1,14 @@
+<hibernate-configuration>  
+  
+<session-factory>  
+ <!-- <property name="hbm2ddl.auto">create</property>  
+ <property name="dialect">org.hibernate.dialect.Oracle10gDialect</property>  
+ <property name="connection.url">jdbc:oracle:thin:@192.168.84.20:1521/repalda</property>  
+ <property name="connection.username">read</property>  
+ <property name="connection.password">read</property>  
+ <property name="connection.driver_class">oracle.jdbc.driver.OracleDriver</property>   -->
+<mapping class="hiber.Site"/>      
+ 
+ </session-factory>  
+  
+</hibernate-configuration>  

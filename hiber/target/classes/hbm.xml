@@ -1,0 +1,9 @@
+<hibernate-mapping>
+ 
+<class name="hiber.Site" table="site">
+<!-- <id name="variable name" column="column name in database" type="java/hibernate type" /> -->
+<!-- <property name="variable1 name" column="column name in database" type="java/hibernate type" /> -->
+<!-- <property name="variable2 name" column="column name in database" type="java/hibernate type" /> -->
+</class>
+ 
+</hibernate-mapping>

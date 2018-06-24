@@ -1,0 +1,5 @@
+com\SpringCaching\SpringCaching\AppRunner.class
+com\SpringCaching\SpringCaching\SimpleBookRepository.class
+com\SpringCaching\SpringCaching\Book.class
+com\SpringCaching\SpringCaching\BookRepository.class
+com\SpringCaching\SpringCaching\App.class
